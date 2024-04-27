@@ -1,8 +1,8 @@
 # ENCODER 8TO3 DATAFLOW Modelling
 
 
-### Developed by:Naveenaa A K
-### RegisterNumber:212222230094
+### Developed by:ADITYAH M S
+### RegisterNumber:212223220002
 
 **AIM:**
 
